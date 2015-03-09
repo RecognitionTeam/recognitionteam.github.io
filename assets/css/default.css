@@ -1,0 +1,13 @@
+body {
+    font-family: 'Poiret One', cursive;
+    background: #E4E4E4;
+    color: #d02552;
+}
+
+.large {
+    font-size: 2em;
+}
+
+p {
+    color: brown;
+}
